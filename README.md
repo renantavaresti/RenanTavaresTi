@@ -33,6 +33,8 @@ My name is Renan, I'm a full stack developer and a passionate about science. I l
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renantavaresti&layout=compact&hide=html" alt="renantavaresti" />
 </p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renantavaresti&show_icons=true" alt="renantavaresti" />
 </p>
 
